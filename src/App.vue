@@ -1,23 +1,13 @@
 <template>
-  <div>
-    <h4>{{ name }}</h4>
-    <p>{{ sayHi() }}</p>
-  </div>
+  <div></div>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-      name: 'mario',
-    };
-  },
-  methods: {
-    sayHi() {
-      return `Hi ${this.name}`;
-    },
-  },
-};
-</script>
+<script></script>
 
-<style lang="scss"></style>
+<style lang="scss">
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+</style>
