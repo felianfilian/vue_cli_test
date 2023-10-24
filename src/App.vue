@@ -1,8 +1,18 @@
 <template>
-  <div></div>
+  <div>
+    <Home />
+  </div>
 </template>
 
-<script></script>
+<script>
+import Home from './views/Home.vue';
+
+export default {
+  components: {
+    Home,
+  },
+};
+</script>
 
 <style lang="scss">
 html,
