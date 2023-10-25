@@ -12,6 +12,7 @@ header {
   width: 100%;
 
   margin-bottom: 5px;
+  padding: 12px;
 
   background-color: rgba($color: #000, $alpha: 0.87);
   box-shadow: 0 3px 15px rgba($color: #576372, $alpha: 0.1);

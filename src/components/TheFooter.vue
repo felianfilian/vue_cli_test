@@ -11,7 +11,7 @@ footer {
 
   width: 100%;
 
-  padding: 4rem 0;
+  padding: 1rem 12px;
 
   background-color: #111;
 
